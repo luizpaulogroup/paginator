@@ -1,12 +1,12 @@
 {
-    "name": "luizpaulogroup/groupe010",
-    "description": "001",
+    "name": "luizpaulogroup/paginator",
+    "description": "Paginação com packagist coffeecode/paginator!",
     "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
             "name": "luizpaulogroup",
-            "email": "luizpaulogroup@gmail.com",
+            "email": "",
             "role": "Developer",
             "homepage": "https://github.com/luizpaulogroup"
         }
